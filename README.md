@@ -23,4 +23,4 @@ This project predicts the price of used bikes based on various features such as 
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/username/UsedBikePrice.git
+   git clone https://github.com/tanviiishetty/UsedBikePrice.git

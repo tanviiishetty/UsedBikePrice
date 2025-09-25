@@ -9,16 +9,7 @@ This project predicts the price of used bikes based on various features such as 
 - **Jupyter Notebooks:** All experiments and visualizations are included in the `notebooks/` folder.
 - **CSV Data:** Raw and processed datasets are available in the `data/` folder.
 - **Environment Management:** Python virtual environment is set up (ignored in Git using `.gitignore`)
-- 
-## Project Structure
-
-UsedBikePrice/
-│
-├── data/ # Contains datasets (CSV files)
-├── notebooks/ # Jupyter notebooks for analysis and modeling
-├── .gitignore # Git ignore file
-├── README.md # Project documentation
-└── venv/ # Python virtual environment (ignored in Git)
+  
 
 ## Technologies Used
 
